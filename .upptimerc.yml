@@ -25,7 +25,7 @@ status-website:
   baseUrl: /ncn_uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: NCN MobileTeam's Monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Uptime 모니터"
   introMessage: firmware update 서버, api, cloud web등의 상태를 모니터링하기 위한 사이트입니다. 
   navbar:
     - title: Status
