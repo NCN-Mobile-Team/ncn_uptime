@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmware.nconnect.co.kr.ico",
     "slug": "mando-firmware",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 806,
-    "timeDay": 707,
-    "timeWeek": 802,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 800,
+    "timeDay": 684,
+    "timeWeek": 786,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2024-06-11": 76
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 189,
-    "timeWeek": 174,
+    "timeDay": 193,
+    "timeWeek": 176,
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {}
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2005,
-    "timeDay": 2127,
-    "timeWeek": 2010,
-    "timeMonth": 2005,
-    "timeYear": 2005,
+    "time": 2009,
+    "timeDay": 2077,
+    "timeWeek": 2007,
+    "timeMonth": 2009,
+    "timeYear": 2009,
     "dailyMinutesDown": {}
   }
 ]
