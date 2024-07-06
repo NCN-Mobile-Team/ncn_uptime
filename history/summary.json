@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmware.nconnect.co.kr.ico",
     "slug": "mando-firmware",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 765,
-    "timeDay": 548,
-    "timeWeek": 735,
-    "timeMonth": 765,
-    "timeYear": 765,
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 758,
+    "timeDay": 555,
+    "timeWeek": 697,
+    "timeMonth": 758,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2024-06-11": 76
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 136,
-    "timeWeek": 173,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "time": 175,
+    "timeDay": 138,
+    "timeWeek": 172,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1988,
-    "timeDay": 1618,
-    "timeWeek": 1993,
-    "timeMonth": 1988,
-    "timeYear": 1988,
+    "time": 1977,
+    "timeDay": 1670,
+    "timeWeek": 1987,
+    "timeMonth": 1977,
+    "timeYear": 1977,
     "dailyMinutesDown": {}
   }
 ]
